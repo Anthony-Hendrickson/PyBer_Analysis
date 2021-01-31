@@ -25,19 +25,19 @@ The purpose of this analysis was to compare sum of daily fares from January to A
 ## Average fare per ride:
 -The average fare per ride decreases in more densely populated city types. See the exact figures and the calculation used below:
 
---Enter average fares pic here--
 ![alt text](https://github.com/Anthony-Hendrickson/PyBer_Analysis/blob/main/Resources/Average_fares.PNG)
 
 ## Average fare per driver:
 -The average fare per driver decreases in more densely populated city types. See the exact figures and the calculation used below:
 
---Enter average driver fares pic here--
 ![alt text](https://github.com/Anthony-Hendrickson/PyBer_Analysis/blob/main/Resources/Average_driver_fares.PNG)
 
 
 # Summary:
 
 ## Summarize the three recommendations to the CEO for addressing any disaprities among the city types.
+
+![alt text](https://github.com/Anthony-Hendrickson/PyBer_Analysis/blob/main/Resources/Chart_Analysis.PNG)
 
 1. PyBer should increase the number of drivers in Urban City Types. Although the period of time measured in the analysis is limited, we observed that the most growth in daily fares exists in the Urban market.
 2. PyBer should consider strategies for getting more drivers active during peaks of fare totals, and less drivers active during troughs in fare totals.
