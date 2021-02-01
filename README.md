@@ -1,6 +1,9 @@
-# PyBer_Analysis
 
-# Overview of the analysis:
+
+# PyBer Analysis
+
+
+# Overview of the analysis
 
 The purpose of this analysis was to compare sum of daily fares from January to April 2019 for PyBer, a rideshare company. For the purposes of displaying multivariate information over time, the bar chart was our weapon of choice. 
 
